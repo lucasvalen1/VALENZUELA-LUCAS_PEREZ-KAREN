@@ -1,0 +1,13 @@
+[2024-08-13 19:03:57] [ INFO ] [DaoH2Odontologo:40] odontologo ingresado Odontologo{id=4, matricula='A632', nombre='Jose', apellido='Martinez'}
+[2024-08-13 19:04:06] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=1, matricula='A503', nombre='MIGUEL', apellido='BORJA'}
+[2024-08-13 19:04:06] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=2, matricula='A302', nombre='MARCELO', apellido='GALLARDO'}
+[2024-08-13 19:04:06] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=3, matricula='A659', nombre='ENZO', apellido='PEREZ'}
+[2024-08-13 19:04:16] [ INFO ] [DaoH2Odontologo:40] odontologo ingresado Odontologo{id=4, matricula='A632', nombre='Jose', apellido='Martinez'}
+[2024-08-13 19:04:17] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=1, matricula='A503', nombre='MIGUEL', apellido='BORJA'}
+[2024-08-13 19:04:17] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=2, matricula='A302', nombre='MARCELO', apellido='GALLARDO'}
+[2024-08-13 19:04:17] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=3, matricula='A659', nombre='ENZO', apellido='PEREZ'}
+[2024-08-13 19:04:17] [ INFO ] [DaoH2Odontologo:81] Odontologo{id=4, matricula='A632', nombre='Jose', apellido='Martinez'}
+[2024-08-13 19:32:35] [ INFO ] [OdontologoDaoMemoria:17] odontologo guardado Odontologo{id=1, matricula='A632', nombre='JOSE', apellido='MARTINEZ'}
+[2024-08-13 19:35:01] [ INFO ] [DaoH2Odontologo:40] odontologo ingresado Odontologo{id=4, matricula='A632', nombre='JOSE', apellido='MARTINEZ'}
+[2024-08-13 19:43:37] [ INFO ] [OdontologoDaoMemoria:17] odontologo guardado Odontologo{id=1, matricula='A632', nombre='JOSE', apellido='MARTINEZ'}
+[2024-08-13 19:44:39] [ INFO ] [OdontologoDaoMemoria:17] odontologo guardado Odontologo{id=1, matricula='A632', nombre='JOSE', apellido='MARTINEZ'}
